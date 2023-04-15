@@ -25,7 +25,7 @@ via `composer.json`:
 {
 	"require": {
 		"php": "^7.4 || ^8.0",
-		"chillerlan/php-qrcode": "dev-main#<commit_hash>"
+		"hale249/telescope-mongodb": "dev-main#<commit_hash>"
 	}
 }
 ```
