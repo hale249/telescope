@@ -1,21 +1,22 @@
 {
-    "name": "laravel/telescope",
+    "name": "hale249/telescope-mongodb",
     "description": "An elegant debug assistant for the Laravel framework.",
     "keywords": ["laravel", "monitoring", "debugging"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Halv",
+            "email": "lehatybg1@laravel.com"
         },
         {
-            "name": "Mohamed Said",
-            "email": "mohamed@laravel.com"
+            "name": "Halv",
+            "email": "lehatybg1@laravel.com"
         }
     ],
     "require": {
         "php": "^8.0",
         "ext-json": "*",
+        "jenssegers/mongodb": "dev-master",
         "laravel/framework": "^8.37|^9.0|^10.0",
         "symfony/var-dumper": "^5.0|^6.0"
     },

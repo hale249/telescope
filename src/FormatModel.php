@@ -11,7 +11,7 @@ class FormatModel
     /**
      * Format the given model to a readable string.
      *
-     * @param  \Illuminate\Database\Eloquent\Model  $model
+     * @param  \\Jenssegers\Mongodb\Eloquent\Model  $model
      * @return string
      */
     public static function given($model)
