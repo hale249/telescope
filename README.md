@@ -15,6 +15,11 @@ Laravel Telescope is an elegant debug assistant for the Laravel framework. Teles
 <img src="https://laravel.com/assets/img/examples/Screen_Shot_2018-10-09_at_1.47.23_PM.png">
 </p>
 
+## Installation
+```shell script
+composer require hale249/telescope-mongodb
+```
+
 ## Official Documentation
 
 Documentation for Telescope can be found on the [Laravel website](https://laravel.com/docs/telescope).
